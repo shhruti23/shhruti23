@@ -2,43 +2,157 @@
 
 🎓 B.Tech Computer Science & Engineering student at St. Aloysius Institute of Technology, graduating in 2027.
 
-💻 Interested in AI/ML, Generative AI, and Backend Development.
+💻 Passionate about Artificial Intelligence, Machine Learning, Generative AI, and Backend Development.
 
-🚀 I enjoy building practical applications, experimenting with local LLMs, and exploring ways to make AI systems useful in real-world environments.
+🚀 I enjoy building practical applications, experimenting with local LLMs, and developing AI-powered solutions to real-world problems.
 
-🛠️ Tech Stack
+---
 
-Languages: Python, C, C++, JavaScript, SQL
-Backend Development: FastAPI, Flask, REST APIs
-AI & Generative AI: RAG, LLM applications, semantic search, embeddings, OCR
-Databases: PostgreSQL, SQLite, Qdrant
-Tools: Git, GitHub, Docker, VS Code, Ollama
+🛠️ Skills & Technologies
 
-🚀 Projects
+Programming Languages
 
-Project| Description| Technologies
-🔎 NEXUS.AI| An offline document question-answering system using hybrid retrieval and reranking to improve search relevance.| Python, RAG, Qdrant, Local LLMs
-🎟️ Campus Pulse| A college event and ticket management application with ticket generation and event analytics.| Python, FastAPI, SQL, JavaScript
-🔢 Handwritten Digit Classifier| A CNN-based application that recognizes handwritten digits from images.| Python, TensorFlow, OpenCV, Streamlit
-💊 MEDRETURN| A medicine donation and disposal platform designed to encourage responsible medicine handling.| Python, Flask, React
+- Python, C, C++, JavaScript, SQL
+
+Backend Development
+
+- FastAPI, Flask, REST APIs
+
+AI & Generative AI
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Model (LLM) applications
+- Semantic Search and Embeddings
+- Optical Character Recognition (OCR)
+- Information Retrieval and Reranking
+
+Databases
+
+- PostgreSQL, MySQL, Qdrant
+
+Tools & Platforms
+
+- Git, GitHub, Docker, VS Code, Ollama
+
+---
+
+🚀 Featured Projects
+
+🔎 NEXUS.AI
+
+An offline document question-answering system that combines hybrid retrieval, vector search, and reranking to improve the relevance of answers generated from documents.
+
+Key Features
+
+- Supports document-based question answering.
+- Combines keyword and semantic retrieval.
+- Uses reranking to improve retrieval relevance.
+- Designed to work with locally running language models.
+
+Tech Stack: Python · RAG · Qdrant · Embeddings · Local LLMs
+
+🏭 DHANUSH.AI
+
+An offline AI knowledge-management system developed during my industrial internship at Ordnance Factory Khamaria. The project focuses on making technical documents easier to search and retrieve in environments where cloud-based AI services may not be suitable.
+
+Key Features
+
+- Document processing and OCR.
+- Semantic search across technical documents.
+- Retrieval-Augmented Generation (RAG).
+- Designed for offline and restricted-network environments.
+
+Tech Stack: Python · FastAPI · PostgreSQL · Qdrant · OCR · Local LLMs
+
+🏢 KARYAM.AI
+
+Contributed to the development of an AI-powered corporate platform during my internship at DeepSoft AI, gaining experience in team coordination, task planning, and project demonstrations.
+
+Focus Areas
+
+- Collaboration on AI-powered application components.
+- Task distribution and team coordination.
+- Project planning and demonstrations.
+
+Technologies: Next.js · React · FastAPI · PostgreSQL
+
+🎟️ Campus Pulse
+
+A college event management web application designed to simplify event discovery, registrations, and ticket management.
+
+Key Features
+
+- College event listings and management.
+- Event registration and ticket-related workflows.
+- Database-backed application functionality.
+
+Tech Stack: Python · Flask · HTML · CSS · JavaScript · SQL
+
+💊 MEDRETURN
+
+A collaborative project focused on promoting responsible medicine donation and disposal by connecting the idea of medicine reuse with safer handling practices.
+
+Focus Areas
+
+- Medicine donation and disposal workflows.
+- User-facing web application development.
+- Collaborative frontend and backend development.
+
+Tech Stack: Python · Flask · React
+
+🔢 Handwritten Digit Recognition
+
+A machine learning project based on the MNIST dataset that explores handwritten digit classification using image data.
+
+Focus Areas
+
+- Image preprocessing.
+- Model training and evaluation.
+- Handwritten digit classification.
+
+Tech Stack: Python · Machine Learning · MNIST
+
+---
 
 💼 Internship Experience
 
-- Ordnance Factory Khamaria (OFK): Worked on DHANUSH.AI, an offline AI knowledge-management platform involving document processing, OCR, semantic search, and retrieval-augmented generation.
-- DeepSoft AI: Contributed to KARYAM.AI-related development and coordinated a six-member team, helping organize tasks and project demonstrations.
+🏭 Ordnance Factory Khamaria (OFK)
 
-🌱 Currently Exploring
+Industrial Intern
+
+Worked on DHANUSH.AI, an offline AI knowledge-management project involving document processing, OCR, semantic search, and RAG-based document retrieval.
+
+🤖 DeepSoft AI
+
+AI Operations Project Lead — KARYAM.AI
+
+Contributed to the KARYAM.AI project, coordinated a six-member team, helped organize tasks, and participated in project demonstrations and collaboration.
+
+---
+
+🌱 Currently Learning
 
 - Generative AI and LLM-based applications
-- Retrieval-Augmented Generation (RAG) and better retrieval techniques
+- Advanced RAG and information retrieval techniques
 - Backend development and API integration
-- Practical AI systems that can run locally without cloud dependencies
+- Practical machine learning and AI system development
+- Building reliable AI applications using local models
 
-📫 Connect With Me
+---
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/shruti-sharma-aa394b270/)
+📊 GitHub Stats
 
-""Email" (https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)" (mailto:shrutisharma2308@gmail.com)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=shhruti23&show_icons=true&hide_border=true&theme=transparent)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=shhruti23&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+📫 Let's Connect
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/shruti-sharma-aa394b270/)
+
+""Email" (https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:shrutisharma2308@gmail.com)
 
 ---
 
